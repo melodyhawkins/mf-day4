@@ -1,0 +1,30 @@
+.container{
+  max-width: 60%;
+}
+.pad-40{
+  padding: 40px;
+}
+.margin-xs{
+  margin-top: 1.5em;
+}
+.margin-55{
+  margin-top: -55px;
+}
+.height-20{
+  height: 20px;
+}
+.height-80{
+  height: 80px;
+}
+.height-160{
+  height: 160px;
+}
+.height-450{
+  height: 450px;
+}
+.black{
+  background-color: black;
+}
+.white{
+  background-color: white;
+}
